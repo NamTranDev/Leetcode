@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="048c5c75-081e-45c1-9493-876b2bbcc7e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nam/tran/14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nam/tran/28.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/344.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/561.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/Leetcode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/Leetcode.kotlin_module" afterDir="false" />
     </list>
@@ -50,14 +49,7 @@
       <recent name="C:\Project\Leetcode\src\nam\tran" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._14Kt">
-    <configuration name="_118Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._118Kt" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._561Kt">
     <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="nam.tran._14Kt" />
       <module name="Leetcode" />
@@ -72,8 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_54Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._54Kt" />
+    <configuration name="_344Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nam.tran._344Kt" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_561Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nam.tran._561Kt" />
       <module name="Leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._561Kt" />
+        <item itemvalue="Kotlin._344Kt" />
         <item itemvalue="Kotlin._14Kt" />
         <item itemvalue="Kotlin._28Kt" />
         <item itemvalue="Kotlin._67Kt" />
-        <item itemvalue="Kotlin._118Kt" />
-        <item itemvalue="Kotlin._54Kt" />
       </list>
     </recent_temporary>
   </component>
