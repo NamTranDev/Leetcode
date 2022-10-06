@@ -5,9 +5,11 @@ import java.util.*
 // Number of Steps to Reduce a Number to Zero
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    print(numberOfSteps(n).toString())
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        println(numberOfSteps(n).toString())
+    }
 }
 
 fun numberOfSteps(num: Int): Int {

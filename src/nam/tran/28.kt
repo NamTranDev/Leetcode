@@ -5,8 +5,12 @@ import java.util.*
 // Add Binary
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    print(strStr2(scanner.next(),scanner.next()))
+    while (true) {
+        val scanner = Scanner(System.`in`)
+        val text1 = scanner.next()
+        val text2 = scanner.next()
+        println(strStr2(text1,text2))
+    }
 }
 
 fun strStr(haystack: String, needle: String): Int {

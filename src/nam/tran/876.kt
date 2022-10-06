@@ -18,11 +18,13 @@ var head: ListNode? = null
 
 
 fun main(){
-    readLine()!!.split(" ").reversed().forEach {
-        pushNode(it.toInt())
+    while (true){
+        readLine()!!.split(" ").reversed().forEach {
+            pushNode(it.toInt())
+        }
+        println(head)
+        println(middleNode(head).toString())
     }
-    println(head)
-    println(middleNode(head).toString())
 }
 
 /*Function to add a new Node*/

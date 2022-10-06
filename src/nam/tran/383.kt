@@ -5,10 +5,12 @@ import java.util.*
 // Ransom Note
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val ransomNote = scanner.next()
-    val magazine = scanner.next()
-    print(canConstruct(ransomNote,magazine).toString())
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val ransomNote = scanner.next()
+        val magazine = scanner.next()
+        println(canConstruct(ransomNote,magazine).toString())
+    }
 }
 
 fun canConstruct(ransomNote: String, magazine: String): Boolean {

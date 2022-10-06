@@ -6,10 +6,12 @@ import kotlin.collections.HashMap
 // Running Sum of 1d Array
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    var arrayint = IntArray(n) { readLine()!!.toInt() }
-    print(Arrays.toString(runningSum(arrayint)))
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        var arrayint = IntArray(n) { readLine()!!.toInt() }
+        println(Arrays.toString(runningSum(arrayint)))
+    }
 }
 
 fun runningSum(nums: IntArray): IntArray {

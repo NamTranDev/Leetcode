@@ -5,10 +5,12 @@ import java.util.*
 // Array Partition
 
 fun main(){
-    val array = readLine()?.split(" ")?.map {
-        it.toInt()
-    }?.toIntArray() ?: intArrayOf()
-    print(arrayPairSum(array))
+    while (true){
+        val array = readLine()?.split(" ")?.map {
+            it.toInt()
+        }?.toIntArray() ?: intArrayOf()
+        println(arrayPairSum(array))
+    }
 }
 
 fun arrayPairSum(nums: IntArray): Int {

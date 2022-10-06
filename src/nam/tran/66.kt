@@ -5,11 +5,12 @@ import java.util.*
 // Plus One
 
 fun main() {
-    val array = readLine()?.split(" ")?.map {
-        it.toInt()
-    }?.toIntArray() ?: intArrayOf()
-    println(Arrays.toString(array))
-    print(Arrays.toString(plusOne(array)))
+    while (true){
+        val array = readLine()?.split(" ")?.map {
+            it.toInt()
+        }?.toIntArray() ?: intArrayOf()
+        println(Arrays.toString(plusOne(array)))
+    }
 }
 
 fun plusOne(digits: IntArray): IntArray {

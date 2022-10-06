@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="048c5c75-081e-45c1-9493-876b2bbcc7e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nam/tran/344.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nam/tran/561.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/Leetcode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/Leetcode.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/167.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/209.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nam/tran/485.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/Leetcode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/118.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/118.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/1342.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/1342.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/1480.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/1480.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/1672.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/1672.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/1991.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/1991.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/28.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/28.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/344.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/344.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/383.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/383.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/412.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/412.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/498.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/498.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/54.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/54.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/561.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/561.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/66.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/66.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/67.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/67.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/747.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/747.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nam/tran/876.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/nam/tran/876.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -39,59 +59,84 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "C:/Project/Leetcode/src/nam/tran"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Project\Leetcode\src\nam\tran" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin._561Kt">
-    <configuration name="_14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._14Kt" />
+  <component name="RunManager" selected="Kotlin._209Kt">
+    <configuration name="_167Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nam.tran._167Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_28Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._28Kt" />
+    <configuration name="_1991Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nam.tran._1991Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_344Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._344Kt" />
+    <configuration name="_209Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nam.tran._209Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_561Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._561Kt" />
+    <configuration name="_27Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nam.tran._27Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nam.tran._67Kt" />
+    <configuration name="_485Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="nam.tran._485Kt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin._561Kt" />
-        <item itemvalue="Kotlin._344Kt" />
-        <item itemvalue="Kotlin._14Kt" />
-        <item itemvalue="Kotlin._28Kt" />
-        <item itemvalue="Kotlin._67Kt" />
+        <item itemvalue="Kotlin._209Kt" />
+        <item itemvalue="Kotlin._485Kt" />
+        <item itemvalue="Kotlin._27Kt" />
+        <item itemvalue="Kotlin._167Kt" />
+        <item itemvalue="Kotlin._1991Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -124,26 +169,105 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog" timestamp="1664973678618">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="100" y="125" width="1720" height="805" key="DiffContextDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1664973678618" />
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom" timestamp="1665025069521">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069521" />
+    <state width="1878" height="328" key="GridCell.Tab.0.center" timestamp="1665025069519">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.center/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069519" />
+    <state width="1878" height="328" key="GridCell.Tab.0.left" timestamp="1665025069519">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.left/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069519" />
+    <state width="1878" height="328" key="GridCell.Tab.0.right" timestamp="1665025069520">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.0.right/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069520" />
+    <state width="1878" height="328" key="GridCell.Tab.1.bottom" timestamp="1665025069444">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.1.bottom/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069444" />
+    <state width="1878" height="328" key="GridCell.Tab.1.center" timestamp="1665025069443">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.1.center/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069443" />
+    <state width="1878" height="328" key="GridCell.Tab.1.left" timestamp="1665025069443">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.1.left/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069443" />
+    <state width="1878" height="328" key="GridCell.Tab.1.right" timestamp="1665025069443">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state width="1878" height="328" key="GridCell.Tab.1.right/0.25.1920.1005@0.25.1920.1005" timestamp="1665025069443" />
+    <state x="761" y="253" key="RollbackChangesDialog" timestamp="1664973441135">
+      <screen x="0" y="25" width="1920" height="1005" />
+    </state>
+    <state x="761" y="253" key="RollbackChangesDialog/0.25.1920.1005@0.25.1920.1005" timestamp="1664973441135" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/nam/tran/498.kt</url>
-          <line>43</line>
+          <line>45</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/nam/tran/54.kt</url>
-          <line>20</line>
+          <line>22</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/nam/tran/209.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

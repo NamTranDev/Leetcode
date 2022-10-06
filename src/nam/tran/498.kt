@@ -6,10 +6,12 @@ import java.util.*
 // Diagonal Traverse
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
-    print(Arrays.toString(findDiagonalOrder(arrayint)))
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
+        println(Arrays.toString(findDiagonalOrder(arrayint)))
+    }
 }
 
 fun findDiagonalOrder(matrix: Array<IntArray>?): IntArray {

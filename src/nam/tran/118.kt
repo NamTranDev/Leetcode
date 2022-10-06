@@ -5,9 +5,11 @@ import java.util.*
 // Pascal's Triangle
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    print(generate(n))
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        println(generate(n))
+    }
 }
 
 fun generate(numRows: Int): List<List<Int>> {

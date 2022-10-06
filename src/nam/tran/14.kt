@@ -5,10 +5,12 @@ import java.util.*
 
 // Longest Common Prefix
 fun main() {
-    val array = readLine()?.split(" ")?.map {
-        it
-    }?.toList() ?: arrayListOf()
-    print(longestCommonPrefix(array.toTypedArray()))
+    while (true) {
+        val array = readLine()?.split(" ")?.map {
+            it
+        }?.toList() ?: arrayListOf()
+        println(longestCommonPrefix(array.toTypedArray()))
+    }
 }
 
 fun longestCommonPrefix(strs: Array<String?>): String {

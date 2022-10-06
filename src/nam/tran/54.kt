@@ -5,10 +5,12 @@ import java.util.*
 // Spiral Matrix
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
-    print(Arrays.toString(spiralOrder(arrayint).toIntArray()))
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
+        println(Arrays.toString(spiralOrder(arrayint).toIntArray()))
+    }
 }
 
 //left to right => row += 0 , column += 1

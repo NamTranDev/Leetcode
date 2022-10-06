@@ -5,9 +5,11 @@ import java.util.*
 // Fizz Buzz
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    print(fizzBuzz(n).toString())
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        println(fizzBuzz(n).toString())
+    }
 }
 
 fun fizzBuzz(n: Int): List<String> {

@@ -5,8 +5,10 @@ import java.util.*
 // Reverse String
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    print(reverseString(scanner.next().toCharArray()))
+    while (true){
+        val scanner = Scanner(System.`in`)
+        println(reverseString(scanner.next().toCharArray()))
+    }
 }
 
 fun reverseString(s: CharArray): CharArray {

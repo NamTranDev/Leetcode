@@ -5,10 +5,12 @@ import java.util.*
 // Richest Customer Wealth
 
 fun main(){
-    val scanner = Scanner(System.`in`)
-    val n = scanner.nextInt()
-    var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
-    print(maximumWealth(arrayint).toString())
+    while (true){
+        val scanner = Scanner(System.`in`)
+        val n = scanner.nextInt()
+        var arrayint = Array(n) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
+        println(maximumWealth(arrayint).toString())
+    }
 }
 
 fun maximumWealth(accounts: Array<IntArray>): Int {

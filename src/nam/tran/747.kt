@@ -5,11 +5,12 @@ import java.util.*
 // Largest Number At Least Twice of Others
 
 fun main() {
-    val array = readLine()?.split(" ")?.map {
-        it.toInt()
-    }?.toIntArray() ?: intArrayOf()
-    println(Arrays.toString(array))
-    print(dominantIndex(array))
+    while (true){
+        val array = readLine()?.split(" ")?.map {
+            it.toInt()
+        }?.toIntArray() ?: intArrayOf()
+        println(dominantIndex(array))
+    }
 }
 
 fun dominantIndex(nums: IntArray): Int {
